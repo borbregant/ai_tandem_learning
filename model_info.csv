@@ -1,9 +1,9 @@
-Dep. Variable:,Motivacija,  R-squared:         ,   0.298
-Model:,OLS,  Adj. R-squared:    ,   0.288
-Method:,Least Squares,  F-statistic:       ,   30.54
-Date:,"Sat, 09 Dec 2023",  Prob (F-statistic):,4.94e-07
-Time:,11:39:52,  Log-Likelihood:    , -229.56
-No. Observations:,    74,  AIC:               ,   463.1
-Df Residuals:,    72,  BIC:               ,   467.7
+Dep. Variable:,Motivacija,  R-squared:         ,   0.306
+Model:,OLS,  Adj. R-squared:    ,   0.296
+Method:,Least Squares,  F-statistic:       ,   32.57
+Date:,"Sun, 10 Dec 2023",  Prob (F-statistic):,2.24e-07
+Time:,08:56:34,  Log-Likelihood:    , -235.04
+No. Observations:,    76,  AIC:               ,   474.1
+Df Residuals:,    74,  BIC:               ,   478.7
 Df Model:,     1,                     , 
 Covariance Type:,nonrobust,                     , 

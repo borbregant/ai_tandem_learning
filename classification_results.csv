@@ -1,0 +1,10 @@
+Classifier,Accuracy,Precision,Recall,F1-score
+Naive Bayes,0.346,0.337,0.425,0.292
+K-Nearest Neighbors,0.447,0.286,0.315,0.295
+Decision Tree,0.398,0.268,0.281,0.268
+Gaussian Mixture,0.187,0.122,0.180,0.101
+Linear Discriminant Analysis,0.463,0.327,0.337,0.313
+AdaBoost,0.356,0.242,0.254,0.236
+Gradient Boosting,0.460,0.315,0.329,0.318
+Support Vector Machine,0.461,0.236,0.318,0.250
+Random Forest,0.527,0.356,0.378,0.348
