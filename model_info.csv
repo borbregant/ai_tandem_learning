@@ -1,8 +1,8 @@
 Dep. Variable:,Motivacija,  R-squared:         ,   0.267
 Model:,OLS,  Adj. R-squared:    ,   0.263
 Method:,Least Squares,  F-statistic:       ,   63.75
-Date:,"Fri, 22 Dec 2023",  Prob (F-statistic):,1.80e-13
-Time:,15:41:56,  Log-Likelihood:    , -565.73
+Date:,"Sat, 23 Dec 2023",  Prob (F-statistic):,1.80e-13
+Time:,15:04:36,  Log-Likelihood:    , -565.73
 No. Observations:,   177,  AIC:               ,   1135.
 Df Residuals:,   175,  BIC:               ,   1142.
 Df Model:,     1,                     , 
